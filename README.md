@@ -1,8 +1,5 @@
 # JRN4SR
 
-##
-Testing code for JRN
-
 
 ## Requirements
 - tensorflow 0.12.0
