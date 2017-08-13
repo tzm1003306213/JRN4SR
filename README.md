@@ -1,5 +1,5 @@
 # JRN4SR
-
+Testing codes of the paper [1].
 
 ## Requirements
 - tensorflow 0.12.0
@@ -29,4 +29,4 @@ python test.py --LR_path ./Data/Set5_D4/ --save_path ./Data/SR/Set5_X4/ --model_
 # 
 
 
-
+[1] Zhimin Tang, Linkai Luo, Hong Peng, Shaohui Li. A Joint Residual Network with Paired ReLUs activation for Image Super-Resolution. Neurocomputing, 2017.
