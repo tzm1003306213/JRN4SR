@@ -1,5 +1,5 @@
 # JRN4SR
-Testing codes of the paper [1].
+Test code of the paper [1].
 
 ## Requirements
 - tensorflow 0.12.0
