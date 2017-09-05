@@ -29,4 +29,4 @@ python test.py --LR_path ./Data/Set5_D4/ --save_path ./Data/SR/Set5_X4/ --model_
 # 
 
 
-[1] Zhimin Tang, Linkai Luo, Hong Peng, Shaohui Li. A joint residual network with paired ReLUs activation for image super-resolution, Neurocomputing (2017). http://dx.doi.org/10.1016/j.neucom.2017.07.061
+[1] Zhimin Tang, Linkai Luo, Hong Peng, Shaohui Li. A joint residual network with paired ReLUs activation for image super-resolution, Neurocomputing (2017). https://doi.org/10.1016/j.neucom.2017.07.061
